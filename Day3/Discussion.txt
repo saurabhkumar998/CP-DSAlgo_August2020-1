@@ -16,11 +16,3 @@ https://leetcode.com/problems/squares-of-a-sorted-array/
 How Many Numbers Are Smaller Than the Current Number
 https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 
-
-Binary Search:
-
-Sorted Infinite array
-https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
-
-Aggressive Cows
-https://www.spoj.com/problems/AGGRCOW/
