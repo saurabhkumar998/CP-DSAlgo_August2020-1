@@ -19,3 +19,12 @@ https://www.interviewbit.com/problems/rotate-matrix/
 
 Monotonic Array
 https://leetcode.com/problems/monotonic-array/
+
+
+Homework:
+
+Majority Element
+https://leetcode.com/problems/majority-element/
+
+Make Two Arrays Equal by Reversing Sub-arrays
+https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
