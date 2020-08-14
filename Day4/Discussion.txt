@@ -10,3 +10,12 @@ Sorting Algorithms:
 
 Kadane's Algorithm
 
+
+Remove Duplicates
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+
+Rotate Matrix
+https://www.interviewbit.com/problems/rotate-matrix/
+
+Monotonic Array
+https://leetcode.com/problems/monotonic-array/
