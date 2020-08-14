@@ -20,6 +20,12 @@ https://www.interviewbit.com/problems/rotate-matrix/
 Monotonic Array
 https://leetcode.com/problems/monotonic-array/
 
+Cinema Seat Allocation
+https://leetcode.com/problems/cinema-seat-allocation/
+
+Pivot Element
+https://leetcode.com/problems/find-pivot-index/
+
 
 Homework:
 
