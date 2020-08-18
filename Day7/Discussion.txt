@@ -1,3 +1,12 @@
+Recursion & Backtracking
+
+Letter Combinations of a Phone Number
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+N Queen Problem
+(with optimised approach)
+https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/
+
 
 LinkedList Problems:
 
