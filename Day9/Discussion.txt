@@ -13,3 +13,15 @@ Print Level order
 Mirror of BT
 isBalanced BT
 
+
+Binary Search Tree
+
+Insertion
+Search
+Deletion
+Build from Array
+Preorder
+Inorder
+Postorder
+Level order traversal
+
