@@ -38,7 +38,15 @@ https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/37000/8
 https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/37182/My-recursive-solution-is-easy-and-clean!
 
 
+Hashing 
+Hash table
+
 Heaps
 
 Kth Largest Element in an Array
 https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+Heapify
+Heap Sort
+
+Tries
