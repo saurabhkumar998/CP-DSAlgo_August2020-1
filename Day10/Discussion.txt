@@ -15,3 +15,12 @@ Min heap
 Max heap
 Heapify
 Heap Sort
+
+Last Stone Weight
+https://leetcode.com/problems/last-stone-weight/
+
+K Sorted Array
+https://www.geeksforgeeks.org/nearly-sorted-algorithm/
+
+K maximum sum combinations
+https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/
