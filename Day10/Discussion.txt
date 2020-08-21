@@ -24,3 +24,9 @@ https://www.geeksforgeeks.org/nearly-sorted-algorithm/
 
 K maximum sum combinations
 https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/
+
+
+DP Problem:
+
+Trapping Rain Water
+https://leetcode.com/problems/trapping-rain-water/
