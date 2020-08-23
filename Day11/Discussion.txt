@@ -15,3 +15,6 @@ https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
 Edit Distance
 https://www.geeksforgeeks.org/edit-distance-dp-5/
 
+Knapsack Problem
+https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+
