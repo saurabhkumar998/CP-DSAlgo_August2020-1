@@ -1,0 +1,10 @@
+Dynamic Programming
+
+Factorial
+
+Fibonacci
+https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
+
+Trapping Rain Water
+https://leetcode.com/problems/trapping-rain-water/
+
