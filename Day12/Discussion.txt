@@ -11,3 +11,7 @@ https://leetcode.com/problems/perfect-squares/
 
 Coin Change
 geeksforgeeks.org/coin-change-dp-7/
+
+
+Busyman SPOJ
+https://www.spoj.com/problems/BUSYMAN/
