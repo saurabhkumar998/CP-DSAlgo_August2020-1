@@ -15,3 +15,13 @@ geeksforgeeks.org/coin-change-dp-7/
 
 Busyman SPOJ
 https://www.spoj.com/problems/BUSYMAN/
+
+
+Graphs
+
+Introduction
+Directed/Undirected
+Connected
+Weighted/Non-weighted
+Adjacency Matrix
+Adjacency List
