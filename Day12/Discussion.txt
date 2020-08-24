@@ -25,3 +25,7 @@ Connected
 Weighted/Non-weighted
 Adjacency Matrix
 Adjacency List
+
+Traversals
+Breadth First Search (BFS)
+Depth First Search (DFS)
