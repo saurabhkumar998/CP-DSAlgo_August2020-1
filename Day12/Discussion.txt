@@ -3,3 +3,5 @@ Dynamic Programming Problems:
 Longest Common Substring
 https://www.geeksforgeeks.org/longest-common-substring-dp-29/
 
+Minimum number of jumps to reach end
+https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/
