@@ -1,6 +1,19 @@
 Components:
 
-DS Algo
-Projects
-Resume
-Internships
+	DS Algo
+	Projects
+	Resume
+	Internships
+
+
+DS Algo Interviews:
+
+	Brute force
+	Optimise
+	Readable code
+	Indentation
+	T & S complexity
+	Take hints
+	Think aloud
+
+
