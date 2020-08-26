@@ -21,4 +21,9 @@ Resume template:
 	Overleaf
 	Deedy template
 
-
+Professional Profiles:
+	GitHub
+	LinkedIn
+	Twitter
+	Medium
+	Portfolio
