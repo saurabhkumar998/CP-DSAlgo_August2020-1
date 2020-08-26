@@ -15,4 +15,12 @@ Travelling Salesman Problem (TSP)
 - Brute force
 - optimisation
 - DP & Bitmasking
+https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/
+https://www.geeksforgeeks.org/travelling-salesman-problem-set-2-approximate-using-mst/
+
+https://ide.codingblocks.com/s/3918
+
+https://medium.com/basecs/speeding-up-the-traveling-salesman-using-dynamic-programming-b76d7552e8dd
+
+
 
