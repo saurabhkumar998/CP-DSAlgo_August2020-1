@@ -8,4 +8,6 @@ Topological Sort
 
 Graph Problems:
 
-Snakes & Ladders Problem using BFS
+Snakes & Ladders Problem (using BFS)
+Spoj HOLI: Holiday Accomodation (using DFS)
+
