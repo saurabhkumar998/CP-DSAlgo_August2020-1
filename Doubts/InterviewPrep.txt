@@ -17,3 +17,8 @@ DS Algo Interviews:
 	Think aloud
 
 
+Resume template:
+	Overleaf
+	Deedy template
+
+
