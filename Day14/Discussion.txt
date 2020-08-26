@@ -11,3 +11,8 @@ Graph Problems:
 Snakes & Ladders Problem (using BFS)
 Spoj HOLI: Holiday Accomodation (using DFS)
 
+Travelling Salesman Problem (TSP)
+- Brute force
+- optimisation
+- DP & Bitmasking
+
