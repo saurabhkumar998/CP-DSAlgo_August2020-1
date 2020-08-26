@@ -12,3 +12,6 @@ https://www.geeksforgeeks.org/boggle-set-2-using-trie/
 
 Greedy Algorithm 
 Grand Temple
+
+Heaps: Mobile Tower
+https://www.geeksforgeeks.org/find-the-k-closest-points-to-origin-using-priority-queue/
