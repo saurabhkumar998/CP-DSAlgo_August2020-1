@@ -31,3 +31,11 @@ Professional Profiles:
 Hactoberfest:
 	Digital Ocean
 	https://hacktoberfest.digitalocean.com/
+
+
+My Profiles
+	LinkedIn: 	https://www.linkedin.com/in/sachin-singla
+	GitHub:		https://github.com/sachin235
+	Twitter:	https://twitter.com/ss_sachinsingla
+	Medium:		https://medium.com/@sachindtu235
+
